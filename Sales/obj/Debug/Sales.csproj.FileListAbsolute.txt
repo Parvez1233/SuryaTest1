@@ -1,0 +1,583 @@
+D:\Projects\Projects\Source\Sales\bin\AutoMapper.Net4.dll
+D:\Projects\Projects\Source\Sales\bin\Reports\Packing_AWLabelPrintNew_11082015.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\Packing_AWLabelPrintNew.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\Packing_LabelPrint_OnlyQRCode.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\Packing_LabelPrint.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\Packing_LabelPrintNew.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithDealUnit.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\DispatchWaybill_Print.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseWaybill_Print.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\LocalReportExample.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseInvoicePrint_Charges.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_Carpet_WithShortQty.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_Carpet.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithLotNo_WithShortQty.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithDealUnitandSpecification.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithLotNo.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithSpecification_WithShortQty.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseInvoiceReport.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseInvoice_Print.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrderHeaderAmendmentDetail.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrdePrintAmendment.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrderReport.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseInvoiceReportProductWise.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrderStatusSummary.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrderReportProductWise.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrderSummary.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseIndent_Print.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseCharges.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\CompanyDetail.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrder_Print_Carpet.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrder_Print_Carpet_WithDeliveryUnit.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithSpecification.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseInvoice_Print_WithDeliveryUnit.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrder_Print_WithDeliveryUnit.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_MasterKey.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_ExportValueDeclaration.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_DocumentOfExchange.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_PostShipmentCoveringLetter.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_SingleCountryDeclaration.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_ShippingAgentLetter.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\SaleOrderAmendment_Print.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\ProductionOrder_Print.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\YarnDyeingPlan_Print.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_ExporterDeclaration.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrder_Print.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\SaleOrderPlan_Print.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\WeavingOrder_Print1.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\WeavingOrder_Print.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\SaleOrder_Print.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\SaleOrderCancel_Print.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\Packing_Print.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\Packing_AWLabelPrint.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\Packing_HDCLabelPrint.rdlc
+D:\Projects\Projects\Source\Sales\bin\Reports\Packing_Print_ToExcel.rdlc
+D:\Projects\Projects\Source\Sales\bin\Sales.dll.config
+D:\Projects\Projects\Source\Sales\bin\Sales.dll
+D:\Projects\Projects\Source\Sales\bin\Sales.pdb
+D:\Projects\Projects\Source\Sales\bin\Antlr3.Runtime.dll
+D:\Projects\Projects\Source\Sales\bin\AutoMapper.dll
+D:\Projects\Projects\Source\Sales\bin\Core.dll
+D:\Projects\Projects\Source\Sales\bin\CustomEventHandlers.dll
+D:\Projects\Projects\Source\Sales\bin\Data.dll
+D:\Projects\Projects\Source\Sales\bin\DocumentEvents.dll
+D:\Projects\Projects\Source\Sales\bin\EMailContents.dll
+D:\Projects\Projects\Source\Sales\bin\EntityFramework.dll
+D:\Projects\Projects\Source\Sales\bin\EntityFramework.SqlServer.dll
+D:\Projects\Projects\Source\Sales\bin\GridMvc.dll
+D:\Projects\Projects\Source\Sales\bin\ImageResizer.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Projects\Source\Sales\bin\Model.dll
+D:\Projects\Projects\Source\Sales\bin\Models.Login.dll
+D:\Projects\Projects\Source\Sales\bin\Newtonsoft.Json.dll
+D:\Projects\Projects\Source\Sales\bin\Notifier.dll
+D:\Projects\Projects\Source\Sales\bin\Owin.dll
+D:\Projects\Projects\Source\Sales\bin\ProjLib.dll
+D:\Projects\Projects\Source\Sales\bin\Remotion.Data.Linq.dll
+D:\Projects\Projects\Source\Sales\bin\Reports.dll
+D:\Projects\Projects\Source\Sales\bin\Service.dll
+D:\Projects\Projects\Source\Sales\bin\System.Web.Helpers.dll
+D:\Projects\Projects\Source\Sales\bin\System.Web.Mvc.dll
+D:\Projects\Projects\Source\Sales\bin\System.Web.Optimization.dll
+D:\Projects\Projects\Source\Sales\bin\System.Web.Razor.dll
+D:\Projects\Projects\Source\Sales\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\Projects\Source\Sales\bin\System.Web.WebPages.dll
+D:\Projects\Projects\Source\Sales\bin\System.Web.WebPages.Razor.dll
+D:\Projects\Projects\Source\Sales\bin\WebActivatorEx.dll
+D:\Projects\Projects\Source\Sales\bin\WebGrease.dll
+D:\Projects\Projects\Source\Sales\bin\Models.Tasks.dll
+D:\Projects\Projects\Source\Sales\bin\log4net.dll
+D:\Projects\Projects\Source\Sales\bin\EPPlus.dll
+D:\Projects\Projects\Source\Sales\bin\itextsharp.dll
+D:\Projects\Projects\Source\Sales\bin\Elmah.dll
+D:\Projects\Projects\Source\Sales\bin\Mailer.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.ReportViewer.Common.dll
+D:\Projects\Projects\Source\Sales\bin\SendGridMail.dll
+D:\Projects\Projects\Source\Sales\bin\Microsoft.SqlServer.Types.dll
+D:\Projects\Projects\Source\Sales\bin\SendGrid.SmtpApi.dll
+D:\Projects\Projects\Source\Sales\bin\Models.Login.pdb
+D:\Projects\Projects\Source\Sales\bin\Notifier.pdb
+D:\Projects\Projects\Source\Sales\bin\ProjLib.pdb
+D:\Projects\Projects\Source\Sales\bin\Core.pdb
+D:\Projects\Projects\Source\Sales\bin\Data.pdb
+D:\Projects\Projects\Source\Sales\bin\Model.pdb
+D:\Projects\Projects\Source\Sales\bin\Reports.pdb
+D:\Projects\Projects\Source\Sales\bin\Service.pdb
+D:\Projects\Projects\Source\Sales\bin\EMailContents.pdb
+D:\Projects\Projects\Source\Sales\bin\Antlr3.Runtime.pdb
+D:\Projects\Projects\Source\Sales\bin\AutoMapper.pdb
+D:\Projects\Projects\Source\Sales\bin\AutoMapper.xml
+D:\Projects\Projects\Source\Sales\bin\AutoMapper.Net4.pdb
+D:\Projects\Projects\Source\Sales\bin\CustomEventHandlers.pdb
+D:\Projects\Projects\Source\Sales\bin\DocumentEvents.pdb
+D:\Projects\Projects\Source\Sales\bin\EntityFramework.xml
+D:\Projects\Projects\Source\Sales\bin\EntityFramework.SqlServer.xml
+D:\Projects\Projects\Source\Sales\bin\ImageResizer.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Projects\Projects\Source\Sales\bin\Microsoft.ReportViewer.WebForms.xml
+D:\Projects\Projects\Source\Sales\bin\Newtonsoft.Json.xml
+D:\Projects\Projects\Source\Sales\bin\System.Web.Helpers.xml
+D:\Projects\Projects\Source\Sales\bin\System.Web.Mvc.xml
+D:\Projects\Projects\Source\Sales\bin\System.Web.Optimization.xml
+D:\Projects\Projects\Source\Sales\bin\System.Web.Razor.xml
+D:\Projects\Projects\Source\Sales\bin\System.Web.WebPages.xml
+D:\Projects\Projects\Source\Sales\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\Projects\Source\Sales\bin\System.Web.WebPages.Razor.xml
+D:\Projects\Projects\Source\Sales\bin\Models.Tasks.pdb
+D:\Projects\Projects\Source\Sales\bin\log4net.xml
+D:\Projects\Projects\Source\Sales\bin\EPPlus.xml
+D:\Projects\Projects\Source\Sales\bin\itextsharp.xml
+D:\Projects\Projects\Source\Sales\bin\Mailer.pdb
+D:\Projects\Projects\Source\Sales\obj\Debug\Sales.Migrations.InitialCreate.resources
+D:\Projects\Projects\Source\Sales\obj\Debug\Sales.Migrations.Update1.resources
+D:\Projects\Projects\Source\Sales\obj\Debug\Sales.csproj.GenerateResource.Cache
+D:\Projects\Projects\Source\Sales\obj\Debug\Sales.dll
+D:\Projects\Projects\Source\Sales\obj\Debug\Sales.pdb
+D:\Projects\Projects\Source\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\Packing_AWLabelPrintNew_11082015.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\Packing_AWLabelPrintNew.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\Packing_LabelPrint_OnlyQRCode.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\Packing_LabelPrint.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\Packing_LabelPrintNew.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithDealUnit.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\DispatchWaybill_Print.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseWaybill_Print.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\LocalReportExample.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseInvoicePrint_Charges.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_Carpet_WithShortQty.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_Carpet.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithLotNo_WithShortQty.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithDealUnitandSpecification.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithLotNo.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithSpecification_WithShortQty.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseInvoiceReport.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseInvoice_Print.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseOrderHeaderAmendmentDetail.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseOrdePrintAmendment.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseOrderReport.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseInvoiceReportProductWise.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseOrderStatusSummary.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseOrderReportProductWise.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseOrderSummary.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseIndent_Print.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseCharges.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\CompanyDetail.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseOrder_Print_Carpet.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseOrder_Print_Carpet_WithDeliveryUnit.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithSpecification.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseInvoice_Print_WithDeliveryUnit.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseOrder_Print_WithDeliveryUnit.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_MasterKey.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_ExportValueDeclaration.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_DocumentOfExchange.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_PostShipmentCoveringLetter.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_SingleCountryDeclaration.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_ShippingAgentLetter.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\SaleOrderAmendment_Print.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\ProductionOrder_Print.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\YarnDyeingPlan_Print.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_ExporterDeclaration.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\PurchaseOrder_Print.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\SaleOrderPlan_Print.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\WeavingOrder_Print1.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\WeavingOrder_Print.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\SaleOrder_Print.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\SaleOrderCancel_Print.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\AutoMapper.Net4.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\Packing_Print.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\Packing_AWLabelPrint.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\Packing_HDCLabelPrint.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports\Packing_Print_ToExcel.rdlc
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Sales.dll.config
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Sales.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Sales.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Antlr3.Runtime.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\AutoMapper.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Core.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\CustomEventHandlers.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Data.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\DocumentEvents.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\EMailContents.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\EntityFramework.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\EntityFramework.SqlServer.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\GridMvc.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\ImageResizer.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Google.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Web.Infrastructure.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Model.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Models.Login.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Newtonsoft.Json.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Notifier.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Owin.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\ProjLib.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Remotion.Data.Linq.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Service.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\System.Web.Helpers.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\System.Web.Mvc.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\System.Web.Optimization.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\System.Web.Razor.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\System.Web.WebPages.Deployment.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\System.Web.WebPages.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\System.Web.WebPages.Razor.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\WebActivatorEx.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\WebGrease.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Models.Tasks.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\log4net.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\EPPlus.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\itextsharp.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Elmah.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Mailer.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.ReportViewer.Common.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\SendGridMail.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.SqlServer.Types.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\SendGrid.SmtpApi.dll
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Models.Login.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Notifier.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\ProjLib.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Core.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Data.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Model.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Reports.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Service.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\EMailContents.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Antlr3.Runtime.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\AutoMapper.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\AutoMapper.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\AutoMapper.Net4.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\CustomEventHandlers.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\DocumentEvents.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\EntityFramework.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\EntityFramework.SqlServer.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\ImageResizer.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Google.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Microsoft.ReportViewer.WebForms.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Newtonsoft.Json.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\System.Web.Helpers.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\System.Web.Mvc.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\System.Web.Optimization.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\System.Web.Razor.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\System.Web.WebPages.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\System.Web.WebPages.Deployment.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\System.Web.WebPages.Razor.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Models.Tasks.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\bin\log4net.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\EPPlus.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\itextsharp.xml
+D:\Gopal Active Projects\Projects\Source\Sales\bin\Mailer.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\obj\Debug\Sales.Migrations.InitialCreate.resources
+D:\Gopal Active Projects\Projects\Source\Sales\obj\Debug\Sales.Migrations.Update1.resources
+D:\Gopal Active Projects\Projects\Source\Sales\obj\Debug\Sales.csproj.GenerateResource.Cache
+D:\Gopal Active Projects\Projects\Source\Sales\obj\Debug\Sales.dll
+D:\Gopal Active Projects\Projects\Source\Sales\obj\Debug\Sales.pdb
+D:\Gopal Active Projects\Projects\Source\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\Packing_AWLabelPrintNew_11082015.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\Packing_AWLabelPrintNew.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\Packing_LabelPrint_OnlyQRCode.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\Packing_LabelPrint.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\Packing_LabelPrintNew.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithDealUnit.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\DispatchWaybill_Print.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseWaybill_Print.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\LocalReportExample.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseInvoicePrint_Charges.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_Carpet_WithShortQty.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_Carpet.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithLotNo_WithShortQty.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithDealUnitandSpecification.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithLotNo.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithSpecification_WithShortQty.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseInvoiceReport.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseInvoice_Print.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrderHeaderAmendmentDetail.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrdePrintAmendment.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrderReport.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseInvoiceReportProductWise.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrderStatusSummary.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrderReportProductWise.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrderSummary.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseIndent_Print.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseCharges.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\CompanyDetail.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrder_Print_Carpet.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrder_Print_Carpet_WithDeliveryUnit.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseGoodsReceipt_Print_WithSpecification.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseInvoice_Print_WithDeliveryUnit.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrder_Print_WithDeliveryUnit.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_MasterKey.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_ExportValueDeclaration.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_DocumentOfExchange.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_PostShipmentCoveringLetter.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_SingleCountryDeclaration.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_ShippingAgentLetter.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\SaleOrderAmendment_Print.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\ProductionOrder_Print.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\YarnDyeingPlan_Print.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\SaleInvoice_ExporterDeclaration.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\PurchaseOrder_Print.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\SaleOrderPlan_Print.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\WeavingOrder_Print1.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\WeavingOrder_Print.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\SaleOrder_Print.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\SaleOrderCancel_Print.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\AutoMapper.Net4.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\Packing_Print.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\Packing_AWLabelPrint.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\Packing_HDCLabelPrint.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports\Packing_Print_ToExcel.rdlc
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Sales.dll.config
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Sales.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Sales.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Antlr3.Runtime.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\AutoMapper.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Core.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\CustomEventHandlers.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Data.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\DocumentEvents.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\EMailContents.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\EntityFramework.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\EntityFramework.SqlServer.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\GridMvc.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\ImageResizer.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Model.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Models.Login.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Newtonsoft.Json.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Notifier.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Owin.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\ProjLib.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Service.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\System.Web.Helpers.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\System.Web.Mvc.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\System.Web.Optimization.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\System.Web.Razor.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\System.Web.WebPages.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\System.Web.WebPages.Razor.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\WebActivatorEx.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\WebGrease.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Models.Tasks.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\log4net.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\EPPlus.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\itextsharp.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Elmah.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Mailer.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\SendGridMail.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\SendGrid.SmtpApi.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Notifier.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Data.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Models.Login.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\ProjLib.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Core.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Model.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Reports.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Service.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\EMailContents.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Antlr3.Runtime.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\AutoMapper.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\AutoMapper.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\AutoMapper.Net4.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\CustomEventHandlers.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\DocumentEvents.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\EntityFramework.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\EntityFramework.SqlServer.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\ImageResizer.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Newtonsoft.Json.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\System.Web.Helpers.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\System.Web.Mvc.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\System.Web.Optimization.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\System.Web.Razor.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\System.Web.WebPages.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\System.Web.WebPages.Razor.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Models.Tasks.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\log4net.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\EPPlus.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\itextsharp.xml
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\bin\Mailer.pdb
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\obj\Debug\Sales.Migrations.InitialCreate.resources
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\obj\Debug\Sales.Migrations.Update1.resources
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\obj\Debug\Sales.csproj.GenerateResource.Cache
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\obj\Debug\Sales.dll
+C:\Users\hanuman\Desktop\SqlDbxPersonal\Projects\Projects\Source\Sales\obj\Debug\Sales.pdb
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Sales.dll.config
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Sales.dll
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Sales.pdb
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Newtonsoft.Json.dll
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Model.dll
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Data.dll
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Core.dll
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Models.Login.dll
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Models.Tasks.dll
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\log4net.dll
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Antlr3.Runtime.pdb
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\AutoMapper.pdb
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\AutoMapper.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\AutoMapper.Net4.pdb
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\CustomEventHandlers.pdb
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\DocumentEvents.pdb
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\EntityFramework.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\EntityFramework.SqlServer.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\ImageResizer.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Owin.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Owin.Security.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Practices.Unity.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\System.Web.Helpers.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\System.Web.Mvc.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\System.Web.Optimization.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\System.Web.Razor.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\System.Web.WebPages.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\System.Web.WebPages.Razor.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Model.pdb
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Data.pdb
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Core.pdb
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Models.Login.pdb
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\Models.Tasks.pdb
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\bin\log4net.xml
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\obj\Debug\Sales.Migrations.InitialCreate.resources
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\obj\Debug\Sales.Migrations.Update1.resources
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\obj\Debug\Sales.csproj.GenerateResource.Cache
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\obj\Debug\Sales.dll
+C:\Users\hanuman\Documents\GitHub\SuryaTest1\Sales\obj\Debug\Sales.pdb
